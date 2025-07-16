@@ -1,4 +1,4 @@
-# spatial-brain-vasc
+# Cell and Spatial Atlas of the Brain Vasculature
 
 Jerry C. Wang et al.
 
